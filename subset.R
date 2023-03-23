@@ -1,11 +1,4 @@
 # Load required packages
-install.packages("mlr3viz")
-install.packages("mlr3tuning")
-install.packages("paradox")
-install.packages("rsample")
-install.packages("mlr3verse")
-install.packages("mlr3measures")
-
 
 library("mlr3")
 library("mlr3learners")
