@@ -8,7 +8,7 @@ library("mlr3tuning")
 library("mlr3verse")
 library("rsample")
 
-setwd("D:/thesis")
+setwd("D:/thesis/runoff")
 
 # import data
 discharge <- read.csv("discharge.csv")
